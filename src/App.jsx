@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/react'
+
 const services = [
   'Tecnologia',
   'Pesquisas AD Hoc',
@@ -72,6 +74,7 @@ const logos = [
 function App() {
   return (
     <div>
+      <Analytics />
       <header className="topbar">
         <div className="container nav">
           <a className="brand" href="#inicio">BOIZE</a>
