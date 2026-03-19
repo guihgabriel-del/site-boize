@@ -226,8 +226,7 @@ function App() {
               <span className="section-tag dark">Contato</span>
               <h2>Vamos construir uma campanha com mais inteligência e resultado?</h2>
               <p>
-                Este projeto está pronto para publicação no Vercel e pode ser adaptado depois com formulário,
-                WhatsApp, cases, portfólio e domínio próprio.
+                BOIZE.
               </p>
               <div className="hero-actions center-on-mobile">
                 <a className="btn btn-dark" href="mailto:contato@boize.com.br">contato@boize.com.br</a>
