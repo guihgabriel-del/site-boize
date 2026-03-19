@@ -229,7 +229,7 @@ function App() {
                 BOIZE.
               </p>
               <div className="hero-actions center-on-mobile">
-                <a className="btn btn-dark" href="mailto:contato@boize.com.br">contato@boize.com.br</a>
+                <a className="btn btn-dark" href="mailto:gui@boize.com.br">gui@boize.com.br</a>
                 <a className="btn btn-outline-dark" href="#inicio">Voltar ao topo</a>
               </div>
             </div>
